@@ -1,0 +1,14 @@
+{
+  "name": "showbattlerecord",
+  "version": "1.0.0",
+  "description": "Battle ground Application",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamin Ali(shaminali14@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
